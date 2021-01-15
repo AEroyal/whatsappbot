@@ -1,0 +1,17 @@
+{
+    "name": "aeroyal",
+    "description": "termux whatsapp bot",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "AE",
+            "email": "aeroyal131@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
+: "beta",
+    "require": {}
+}
